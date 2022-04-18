@@ -1,0 +1,23 @@
+each describing attributes associated with good practice in open source software development:
+every good work of software starts by scratching a developer's personal itch.
+plan to throw one [version] away; you will, anyhow (copied from frederick brooks's the mythical man-month).
+when you lose interest in a program, your last duty to it is to hand it off to a competent successor.
+release early. release often. and listen to your customers.
+and the fix obvious to someone.
+if you treat your beta-testers as if they're your most valuable resource, 
+the next best thing to having good ideas is recognizing good ideas from your users. 
+often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong.
+but rather when there is nothing more to take away. 
+when writing gateway software of any kind, take pains to disturb the data stream 
+when your language is nowhere near turing-complete, syntactic sugar can be your friend.
+to solve an interesting problem, start by finding a problem that is interesting to you.
+and knows how to lead without coercion, many heads are inevitably better than one.
+in 1998, the essay helped the final push for netscape communications corporation to release 
+it was cited by frank hecker and other employees as an outside independent validation of his arguments.
+
+commercially distributed books published under the open publication license.
+marshall poe, in his essay "the hive", likens wikipedia to the bazaar model that raymond defines.
+such as friedrich hayek's article "the use of knowledge in society"), arguing that "it opened my eyes 
+
+the second one called "a second look at the cathedral and the bazaar".
+line: 22	word: 273
