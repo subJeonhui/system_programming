@@ -59,14 +59,15 @@ void main(void)
 
 	ifd = open("./sample.txt", O_RDONLY);
 
-	fin = fdopen(ifd, "r");
+
 	fout1 = fdopen(pipe1[1], "w");
 	fout2 = fdopen(pipe2[1], "w");
 
-	int i = 0;
+	int i = 0;fin = fdopen(ifd, "r");
 	while (!feof(fin)) {
 		if (fgets(line, sizeof(line), fin)==NULL) break;
-		printf("%s", line); fflush(stdout);
+		printf("%s", line);
+        fflush(stdout);
 		if (i++%2==0) { 
 			//fputs(line, fout1); fflush(fout1);
 			write(pipe1[1], line, strlen(line));
