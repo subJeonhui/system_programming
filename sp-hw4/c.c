@@ -8,49 +8,46 @@
 #include <unistd.h>
 
 #define MAX 1024 // max KB input length
-#define PORT 30077 // server port #
-//#define HOSTADDR "192.168.16.30" // server IP
+#define PORT 32763// server port #
 #define HOSTADDR "127.0.0.1" // server IP
 
-int main (int argc, char *argv[])
-{
-	int sd, send_bytes, n, recv_bytes;
+int main(int argc, char *argv[]) {
+    int sd, send_bytes, n, recv_bytes;
 
-	struct sockaddr_in servaddr;
-	char snddata[MAX], rcvdata[MAX];
-	bzero ((char*) &servaddr, sizeof(servaddr)); // prepare server address, port
-	servaddr.sin_family = AF_INET;
-	servaddr.sin_addr.s_addr = inet_addr (HOSTADDR);
-	servaddr.sin_port = htons (PORT);
-	if (( sd = socket (AF_INET, SOCK_STREAM, 0)) < 0) {
-		fprintf( stderr, "can’t open socket.\n");
-		exit(1);
-	}
+    struct sockaddr_in servaddr;
+    char snddata[1024];
+    char data[1024];
 
-	if (connect (sd, (struct sockaddr *) &servaddr, sizeof(servaddr)) < 0) {
-		fprintf (stderr, "can’t connect to server.\n");
-		exit(1);
-	} // auto binding for this client and connect request
-	while (fgets (snddata, MAX, stdin) != NULL) { // get a string from KB
-		send_bytes = strlen (snddata);
-		if (send (sd, snddata, send_bytes, 0) != send_bytes) { // to server
-			fprintf( stderr, "can’t send data.\n");
-			exit(1);
-		}
+    bzero ((char *) &servaddr, sizeof(servaddr)); // prepare server address, port
+    servaddr.sin_family = AF_INET;
+    servaddr.sin_addr.s_addr = inet_addr(HOSTADDR);
+    servaddr.sin_port = htons (PORT);
+    if ((sd = socket(AF_INET, SOCK_STREAM, 0)) < 0) {
+        fprintf(stderr, "can’t open socket.\n");
+        exit(1);
+    }
 
-		recv_bytes = 0;
-		while (recv_bytes < send_bytes) { // while loop for stream I/O !
-			if ((n = recv (sd, rcvdata + recv_bytes, MAX, 0)) < 0) { // from server
-				fprintf (stderr, "can’t receive data.\n");
-				exit(1);
-			}
-			recv_bytes += n;
-		}
-		rcvdata[recv_bytes] = 0; // NULL char for string
-		printf("Echo: ");
-		fputs (rcvdata, stdout); // display
-		fflush(stdout);
-	}
-	close (sd);
-	return 0;
+    if (connect(sd, (struct sockaddr *) &servaddr, sizeof(servaddr)) < 0) {
+        fprintf(stderr, "can’t connect to server.\n");
+        exit(1);
+    } // auto binding for this client and connect request
+
+    while (fgets(snddata, MAX, stdin) != NULL) { // get a string from KB
+        send_bytes = strlen(snddata);
+
+        if (send(sd, snddata, send_bytes, 0) != send_bytes) { // to server
+            fprintf(stderr, "can’t send data.\n");
+            exit(1);
+        }
+
+        memset(data, 0, MAX);
+        recv_bytes = recv(sd, data, MAX, 0);
+        fputs(data, stdout); // display
+        fflush(stdout);
+        if(strcmp(data,"quit_ack") == 0)
+            break;
+        memset(data, 0, MAX);
+    }
+    close(sd);
+    return 0;
 }

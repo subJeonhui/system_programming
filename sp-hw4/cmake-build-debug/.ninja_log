@@ -1,0 +1,11 @@
+# ninja log v5
+0	105	1654502282660000000	CMakeFiles/sp_hw4.dir/c.c.o	d95abecb7dd3e5d6
+1	106	1654502282660000000	CMakeFiles/sp_hw4.dir/s.c.o	f940bd165d8dd50f
+0	110	1654514325530000000	CMakeFiles/sp_hw4.dir/c.c.o	d95abecb7dd3e5d6
+1	110	1654514325530000000	CMakeFiles/sp_hw4.dir/s.c.o	f940bd165d8dd50f
+0	101	1654514686680000000	CMakeFiles/sp_hw4.dir/s.c.o	f940bd165d8dd50f
+1	89	1654514833230000000	CMakeFiles/sp_hw4.dir/s.c.o	f940bd165d8dd50f
+0	398	1654519660970000000	CMakeFiles/sp_hw4.dir/s.c.o	f940bd165d8dd50f
+1	72	1654522142470000000	CMakeFiles/sp_hw4.dir/s.c.o	f940bd165d8dd50f
+1	114	1654530057030000000	CMakeFiles/sp_hw4.dir/c.c.o	d95abecb7dd3e5d6
+1	128	1654530057040000000	CMakeFiles/sp_hw4.dir/s.c.o	f940bd165d8dd50f
