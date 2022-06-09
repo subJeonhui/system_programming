@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/rheeys/test'
+let g:netrw_dirhist_2='/sp-exam-2019'
+let g:netrw_dirhist_3='/home/rheeys/test'
+let g:netrw_dirhist_4='/etc/default'
+let g:netrw_dirhist_5='/home/rheeys/.vim/indent'

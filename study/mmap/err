@@ -1,0 +1,6 @@
+mmcp.c: In function ‘main’:
+mmcp.c:50:2: warning: implicit declaration of function ‘memcpy’ [-Wimplicit-function-declaration]
+  memcpy(dst, src, statbuf.st_size);
+  ^
+mmcp.c:50:2: warning: incompatible implicit declaration of built-in function ‘memcpy’
+mmcp.c:50:2: note: include ‘<string.h>’ or provide a declaration of ‘memcpy’
