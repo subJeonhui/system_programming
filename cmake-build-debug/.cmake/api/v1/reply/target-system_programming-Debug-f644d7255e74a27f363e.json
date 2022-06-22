@@ -49,7 +49,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/Volumes/T7/github/system_programming/study/final/SysV-IPC"
+					"path" : "/Volumes/T7/github/system_programming/study/final/12_SysV-IPC"
 				}
 			],
 			"language" : "C",
@@ -154,7 +154,8 @@
 				99,
 				100,
 				101,
-				102
+				102,
+				103
 			]
 		}
 	],
@@ -286,7 +287,8 @@
 				99,
 				100,
 				101,
-				102
+				102,
+				103
 			]
 		},
 		{
@@ -346,246 +348,246 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/debug/loop.c",
+			"path" : "study/midterm/debug/loop.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/debug/myProg.c",
+			"path" : "study/midterm/debug/myProg.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/debug/segfault.c",
+			"path" : "study/midterm/debug/segfault.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/mmap/mmcp.c",
+			"path" : "study/final/09_mmap/code/mmcp.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/mmap/nonblockw.c",
+			"path" : "study/final/09_mmap/code/nonblockw.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/network/echo_client.c",
+			"path" : "study/final/13_network/code/echo_client.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/network/echo_server.c",
+			"path" : "study/final/13_network/code/echo_server.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/network/gethostbyaddr_ex.c",
+			"path" : "study/final/13_network/code/gethostbyaddr_ex.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/network/gethostbyname_ex.c",
+			"path" : "study/final/13_network/code/gethostbyname_ex.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/network/getservbyname_ex.c",
+			"path" : "study/final/13_network/code/getservbyname_ex.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/network/select_client.c",
+			"path" : "study/final/13_network/code/select_client.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/network/select_server.c",
+			"path" : "study/final/13_network/code/select_server.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/semaphore/mprod-cons.c",
+			"path" : "study/final/10_semaphore/code/mprod-cons.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/semaphore/prod-cons.c",
+			"path" : "study/final/10_semaphore/code/prod-cons.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/semaphore/semaphore.c",
+			"path" : "study/final/10_semaphore/code/semaphore.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/abort.c",
+			"path" : "study/final/11_signal/code/abort.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/alarm-getchar.c",
+			"path" : "study/final/11_signal/code/alarm-getchar.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/alarm-getchar2.c",
+			"path" : "study/final/11_signal/code/alarm-getchar2.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/alarm.c",
+			"path" : "study/final/11_signal/code/alarm.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/itimer.c",
+			"path" : "study/final/11_signal/code/itimer.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/pause.c",
+			"path" : "study/final/11_signal/code/pause.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/posix-timer.c",
+			"path" : "study/final/11_signal/code/posix-timer.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/sighandler.c",
+			"path" : "study/final/11_signal/code/sighandler.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/sigsuspend.c",
+			"path" : "study/final/11_signal/code/sigsuspend.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/siguser1.c",
+			"path" : "study/final/11_signal/code/siguser1.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/signal/sleep-sig.c",
+			"path" : "study/final/11_signal/code/sleep-sig.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/SysV-IPC/sysV-sem/shm-consumer.c",
+			"path" : "study/final/12_SysV-IPC/sysV-sem/shm-consumer.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/SysV-IPC/sysV-sem/shm-producer.c",
+			"path" : "study/final/12_SysV-IPC/sysV-sem/shm-producer.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/SysV-IPC/sysV-sem/shm-seminit.c",
+			"path" : "study/final/12_SysV-IPC/sysV-sem/shm-seminit.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/SysV-IPC/crecv.c",
+			"path" : "study/final/12_SysV-IPC/code/crecv.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/SysV-IPC/csend.c",
+			"path" : "study/final/12_SysV-IPC/code/csend.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/SysV-IPC/hello.c",
+			"path" : "study/final/12_SysV-IPC/code/hello.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/SysV-IPC/memlayer.c",
+			"path" : "study/final/12_SysV-IPC/code/memlayer.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "study/final/SysV-IPC/mymessage.h",
+			"path" : "study/final/12_SysV-IPC/code/mymessage.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/SysV-IPC/shm-con.c",
+			"path" : "study/final/12_SysV-IPC/code/shm-con.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/SysV-IPC/shm-pro.c",
+			"path" : "study/final/12_SysV-IPC/code/shm-pro.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/time/setTime.c",
+			"path" : "study/final/14_time/code/setTime.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/time/strFTime.c",
+			"path" : "study/final/14_time/code/strFTime.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/time/timeF.c",
+			"path" : "study/final/14_time/code/timeF.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/time/timeToStr.c",
+			"path" : "study/final/14_time/code/timeToStr.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/final/time/toUTC.c",
+			"path" : "study/final/14_time/code/toUTC.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -741,185 +743,191 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/calc.c",
+			"path" : "study/midterm/process/calc.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/echoall.c",
+			"path" : "study/midterm/process/echoall.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/fork.c",
+			"path" : "study/midterm/process/fork.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/fwait.c",
+			"path" : "study/midterm/process/fwait.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/nexec.c",
+			"path" : "study/midterm/process/nexec.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/pid-ex.c",
+			"path" : "study/midterm/process/pid-ex.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/pipe.c",
+			"path" : "study/midterm/process/pipe.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/race.c",
+			"path" : "study/midterm/process/race.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/sleep5.c",
+			"path" : "study/midterm/process/sleep5.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/system-ex.c",
+			"path" : "study/midterm/process/system-ex.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/test.c",
+			"path" : "study/midterm/process/test.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/process/time-ex.c",
+			"path" : "study/midterm/process/time-ex.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/reclock/rec-proc.c",
+			"path" : "study/midterm/reclock/rec-proc.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/reclock/reclock.c",
+			"path" : "study/midterm/reclock/reclock.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/sp-hw1-sol/sp-hw1-sol.c",
+			"path" : "sp-hw1/sp-hw1-sol/sp-hw1-sol.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/sp-hw1-sol/sp-hw1-sol2.c",
+			"path" : "sp-hw1/sp-hw1-sol/sp-hw1-sol2.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "study/sp-hw2/account.dat",
+			"path" : "sp-hw2/sp-hw2-data/sp-hw2/account.dat",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 1,
-			"path" : "study/sp-hw2/operation.dat",
+			"path" : "sp-hw2/sp-hw2-data/sp-hw2/operation.dat",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/cond-var.c",
+			"path" : "study/midterm/thread/cond-var.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/dot_product.c",
+			"path" : "study/midterm/thread/dot_product.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/inc_dec_no_mtx.c",
+			"path" : "study/midterm/thread/inc_dec_no_mtx.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/inc_dec_with_mtx.c",
+			"path" : "study/midterm/thread/inc_dec_with_mtx.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/mutex_counter.c",
+			"path" : "study/midterm/thread/mutex_counter.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/prod-cons.c",
+			"path" : "study/midterm/thread/prod-cons.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/th_cancel.c",
+			"path" : "study/midterm/thread/th_cancel.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/th_cancel2.c",
+			"path" : "study/midterm/thread/th_cancel2.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/th_hello.c",
+			"path" : "study/midterm/thread/th_hello.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/th_hello2.c",
+			"path" : "study/midterm/thread/th_hello2.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/thread-ex1.c",
+			"path" : "study/midterm/thread/thread-ex1.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/thread-ex2.c",
+			"path" : "study/midterm/thread/thread-ex2.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "study/thread/thread-join.c",
+			"path" : "study/midterm/thread/thread-join.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "study/final/11_signal/code/sigTest.c",
 			"sourceGroupIndex" : 0
 		}
 	],

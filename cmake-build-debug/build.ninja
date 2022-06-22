@@ -52,902 +52,709 @@ build cmake_object_order_depends_target_system_programming: phony || CMakeFiles/
 build CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-201902763.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/sp-hw1/sp-hw1-201902763.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-201902763.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/sp-hw1
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/sp-hw2/sp-hw2-201902763.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/sp-hw2/sp-hw2-201902763.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/sp-hw2/sp-hw2-201902763.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/sp-hw2
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/sp-hw3/sp-hw3-201902763-client.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/sp-hw3/sp-hw3-201902763-client.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/sp-hw3/sp-hw3-201902763-client.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/sp-hw3
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/sp-hw3/sp-hw3-201902763-server.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/sp-hw3/sp-hw3-201902763-server.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/sp-hw3/sp-hw3-201902763-server.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/sp-hw3
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/sp-hw4/c.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/sp-hw4/c.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/sp-hw4/c.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/sp-hw4
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/sp-hw4/s.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/sp-hw4/s.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/sp-hw4/s.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/sp-hw4
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
-build CMakeFiles/system_programming.dir/study/debug/loop.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/debug/loop.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/debug/loop.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/debug/loop.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/debug/loop.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/debug/loop.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/debug
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/debug
 
-build CMakeFiles/system_programming.dir/study/debug/myProg.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/debug/myProg.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/debug/myProg.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/debug/myProg.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/debug/myProg.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/debug/myProg.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/debug
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/debug
 
-build CMakeFiles/system_programming.dir/study/debug/segfault.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/debug/segfault.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/debug/segfault.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/debug/segfault.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/debug/segfault.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/debug/segfault.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/debug
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/debug
 
-build CMakeFiles/system_programming.dir/study/final/mmap/mmcp.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/mmap/mmcp.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/mmap/mmcp.c.o.d
+build CMakeFiles/system_programming.dir/study/final/09_mmap/code/mmcp.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/09_mmap/code/mmcp.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/09_mmap/code/mmcp.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/mmap
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/09_mmap/code
 
-build CMakeFiles/system_programming.dir/study/final/mmap/nonblockw.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/mmap/nonblockw.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/mmap/nonblockw.c.o.d
+build CMakeFiles/system_programming.dir/study/final/09_mmap/code/nonblockw.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/09_mmap/code/nonblockw.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/09_mmap/code/nonblockw.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/mmap
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/09_mmap/code
 
-build CMakeFiles/system_programming.dir/study/final/network/echo_client.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/network/echo_client.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/network/echo_client.c.o.d
+build CMakeFiles/system_programming.dir/study/final/13_network/code/echo_client.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/13_network/code/echo_client.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/13_network/code/echo_client.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/network
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/13_network/code
 
-build CMakeFiles/system_programming.dir/study/final/network/echo_server.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/network/echo_server.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/network/echo_server.c.o.d
+build CMakeFiles/system_programming.dir/study/final/13_network/code/echo_server.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/13_network/code/echo_server.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/13_network/code/echo_server.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/network
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/13_network/code
 
-build CMakeFiles/system_programming.dir/study/final/network/gethostbyaddr_ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/network/gethostbyaddr_ex.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/network/gethostbyaddr_ex.c.o.d
+build CMakeFiles/system_programming.dir/study/final/13_network/code/gethostbyaddr_ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/13_network/code/gethostbyaddr_ex.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/13_network/code/gethostbyaddr_ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/network
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/13_network/code
 
-build CMakeFiles/system_programming.dir/study/final/network/gethostbyname_ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/network/gethostbyname_ex.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/network/gethostbyname_ex.c.o.d
+build CMakeFiles/system_programming.dir/study/final/13_network/code/gethostbyname_ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/13_network/code/gethostbyname_ex.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/13_network/code/gethostbyname_ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/network
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/13_network/code
 
-build CMakeFiles/system_programming.dir/study/final/network/getservbyname_ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/network/getservbyname_ex.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/network/getservbyname_ex.c.o.d
+build CMakeFiles/system_programming.dir/study/final/13_network/code/getservbyname_ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/13_network/code/getservbyname_ex.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/13_network/code/getservbyname_ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/network
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/13_network/code
 
-build CMakeFiles/system_programming.dir/study/final/network/select_client.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/network/select_client.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/network/select_client.c.o.d
+build CMakeFiles/system_programming.dir/study/final/13_network/code/select_client.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/13_network/code/select_client.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/13_network/code/select_client.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/network
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/13_network/code
 
-build CMakeFiles/system_programming.dir/study/final/network/select_server.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/network/select_server.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/network/select_server.c.o.d
+build CMakeFiles/system_programming.dir/study/final/13_network/code/select_server.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/13_network/code/select_server.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/13_network/code/select_server.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/network
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/13_network/code
 
-build CMakeFiles/system_programming.dir/study/final/semaphore/mprod-cons.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/semaphore/mprod-cons.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/semaphore/mprod-cons.c.o.d
+build CMakeFiles/system_programming.dir/study/final/10_semaphore/code/mprod-cons.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/10_semaphore/code/mprod-cons.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/10_semaphore/code/mprod-cons.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/semaphore
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/10_semaphore/code
 
-build CMakeFiles/system_programming.dir/study/final/semaphore/prod-cons.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/semaphore/prod-cons.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/semaphore/prod-cons.c.o.d
+build CMakeFiles/system_programming.dir/study/final/10_semaphore/code/prod-cons.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/10_semaphore/code/prod-cons.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/10_semaphore/code/prod-cons.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/semaphore
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/10_semaphore/code
 
-build CMakeFiles/system_programming.dir/study/final/semaphore/semaphore.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/semaphore/semaphore.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/semaphore/semaphore.c.o.d
+build CMakeFiles/system_programming.dir/study/final/10_semaphore/code/semaphore.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/10_semaphore/code/semaphore.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/10_semaphore/code/semaphore.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/semaphore
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/10_semaphore/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/abort.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/abort.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/abort.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/abort.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/abort.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/abort.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/alarm-getchar.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/alarm-getchar.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/alarm-getchar.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/alarm-getchar.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/alarm-getchar.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/alarm-getchar.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/alarm-getchar2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/alarm-getchar2.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/alarm-getchar2.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/alarm-getchar2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/alarm-getchar2.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/alarm-getchar2.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/alarm.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/alarm.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/alarm.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/alarm.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/alarm.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/alarm.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/itimer.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/itimer.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/itimer.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/itimer.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/itimer.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/itimer.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/pause.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/pause.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/pause.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/pause.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/pause.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/pause.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/posix-timer.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/posix-timer.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/posix-timer.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/posix-timer.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/posix-timer.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/posix-timer.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/sighandler.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/sighandler.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/sighandler.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/sighandler.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/sighandler.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/sighandler.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/sigsuspend.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/sigsuspend.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/sigsuspend.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/sigsuspend.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/sigsuspend.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/sigsuspend.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/siguser1.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/siguser1.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/siguser1.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/siguser1.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/siguser1.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/siguser1.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/signal/sleep-sig.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/signal/sleep-sig.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/signal/sleep-sig.c.o.d
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/sleep-sig.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/sleep-sig.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/sleep-sig.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/signal
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
-build CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem/shm-consumer.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/SysV-IPC/sysV-sem/shm-consumer.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem/shm-consumer.c.o.d
+build CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem/shm-consumer.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/12_SysV-IPC/sysV-sem/shm-consumer.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem/shm-consumer.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem
 
-build CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem/shm-producer.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/SysV-IPC/sysV-sem/shm-producer.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem/shm-producer.c.o.d
+build CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem/shm-producer.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/12_SysV-IPC/sysV-sem/shm-producer.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem/shm-producer.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem
 
-build CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem/shm-seminit.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/SysV-IPC/sysV-sem/shm-seminit.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem/shm-seminit.c.o.d
+build CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem/shm-seminit.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/12_SysV-IPC/sysV-sem/shm-seminit.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem/shm-seminit.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem
 
-build CMakeFiles/system_programming.dir/study/final/SysV-IPC/crecv.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/SysV-IPC/crecv.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/SysV-IPC/crecv.c.o.d
+build CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/crecv.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/12_SysV-IPC/code/crecv.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/crecv.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/SysV-IPC
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code
 
-build CMakeFiles/system_programming.dir/study/final/SysV-IPC/csend.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/SysV-IPC/csend.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/SysV-IPC/csend.c.o.d
+build CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/csend.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/12_SysV-IPC/code/csend.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/csend.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/SysV-IPC
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code
 
-build CMakeFiles/system_programming.dir/study/final/SysV-IPC/hello.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/SysV-IPC/hello.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/SysV-IPC/hello.c.o.d
+build CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/hello.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/12_SysV-IPC/code/hello.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/hello.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/SysV-IPC
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code
 
-build CMakeFiles/system_programming.dir/study/final/SysV-IPC/memlayer.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/SysV-IPC/memlayer.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/SysV-IPC/memlayer.c.o.d
+build CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/memlayer.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/12_SysV-IPC/code/memlayer.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/memlayer.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/SysV-IPC
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code
 
-build CMakeFiles/system_programming.dir/study/final/SysV-IPC/shm-con.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/SysV-IPC/shm-con.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/SysV-IPC/shm-con.c.o.d
+build CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/shm-con.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/12_SysV-IPC/code/shm-con.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/shm-con.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/SysV-IPC
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code
 
-build CMakeFiles/system_programming.dir/study/final/SysV-IPC/shm-pro.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/SysV-IPC/shm-pro.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/SysV-IPC/shm-pro.c.o.d
+build CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/shm-pro.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/12_SysV-IPC/code/shm-pro.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/shm-pro.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/SysV-IPC
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code
 
-build CMakeFiles/system_programming.dir/study/final/time/setTime.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/time/setTime.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/time/setTime.c.o.d
+build CMakeFiles/system_programming.dir/study/final/14_time/code/setTime.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/14_time/code/setTime.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/14_time/code/setTime.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/time
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/14_time/code
 
-build CMakeFiles/system_programming.dir/study/final/time/strFTime.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/time/strFTime.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/time/strFTime.c.o.d
+build CMakeFiles/system_programming.dir/study/final/14_time/code/strFTime.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/14_time/code/strFTime.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/14_time/code/strFTime.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/time
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/14_time/code
 
-build CMakeFiles/system_programming.dir/study/final/time/timeF.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/time/timeF.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/time/timeF.c.o.d
+build CMakeFiles/system_programming.dir/study/final/14_time/code/timeF.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/14_time/code/timeF.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/14_time/code/timeF.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/time
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/14_time/code
 
-build CMakeFiles/system_programming.dir/study/final/time/timeToStr.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/time/timeToStr.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/time/timeToStr.c.o.d
+build CMakeFiles/system_programming.dir/study/final/14_time/code/timeToStr.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/14_time/code/timeToStr.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/14_time/code/timeToStr.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/time
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/14_time/code
 
-build CMakeFiles/system_programming.dir/study/final/time/toUTC.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/time/toUTC.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/final/time/toUTC.c.o.d
+build CMakeFiles/system_programming.dir/study/final/14_time/code/toUTC.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/14_time/code/toUTC.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/14_time/code/toUTC.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/time
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/14_time/code
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/access-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/access-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/access-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/access.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/access.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/access.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/chmod-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/chmod-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/chmod-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/chmod.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/chmod.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/chmod.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/chown-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/chown-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/chown-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/create-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/create-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/create-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/dup-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/dup-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/dup-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/fcopy2-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/fcopy2-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/fcopy2-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/feof-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/feof-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/feof-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/ferror-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/ferror-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/ferror-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/filecopy.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/filecopy.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/filecopy.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/fileio-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/fileio-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/fileio-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/frandom.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/frandom.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/frandom.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/freopen-ex1.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/freopen-ex1.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/freopen-ex1.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/freopen-ex2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/freopen-ex2.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/freopen-ex2.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/fstat-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/fstat-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/fstat-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/hlink-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/hlink-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/hlink-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/io-redir.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/io-redir.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/io-redir.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/lineio-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/lineio-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/lineio-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/open-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/open-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/open-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/readlink-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/readlink-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/readlink-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/readlink.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/readlink.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/readlink.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/stdio-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/stdio-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/stdio-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/symlink-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/symlink-ex.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/symlink-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
 build CMakeFiles/system_programming.dir/study/midterm/fileio/termtest.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/fileio/termtest.c || cmake_object_order_depends_target_system_programming
   DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/fileio/termtest.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
   OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/fileio
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
 
-build CMakeFiles/system_programming.dir/study/process/calc.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/calc.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/calc.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/calc.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/calc.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/calc.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/echoall.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/echoall.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/echoall.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/echoall.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/echoall.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/echoall.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/fork.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/fork.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/fork.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/fork.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/fork.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/fork.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/fwait.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/fwait.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/fwait.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/fwait.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/fwait.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/fwait.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/nexec.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/nexec.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/nexec.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/nexec.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/nexec.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/nexec.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/pid-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/pid-ex.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/pid-ex.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/pid-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/pid-ex.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/pid-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/pipe.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/pipe.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/pipe.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/pipe.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/pipe.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/pipe.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/race.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/race.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/race.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/race.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/race.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/race.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/sleep5.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/sleep5.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/sleep5.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/sleep5.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/sleep5.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/sleep5.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/system-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/system-ex.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/system-ex.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/system-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/system-ex.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/system-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/test.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/test.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/test.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/test.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/test.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/test.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/process/time-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/process/time-ex.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/process/time-ex.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/process/time-ex.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/process/time-ex.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/process/time-ex.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/process
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/process
 
-build CMakeFiles/system_programming.dir/study/reclock/rec-proc.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/reclock/rec-proc.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/reclock/rec-proc.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/reclock/rec-proc.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/reclock/rec-proc.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/reclock/rec-proc.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/reclock
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/reclock
 
-build CMakeFiles/system_programming.dir/study/reclock/reclock.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/reclock/reclock.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/reclock/reclock.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/reclock/reclock.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/reclock/reclock.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/reclock/reclock.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/reclock
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/reclock
 
-build CMakeFiles/system_programming.dir/study/sp-hw1-sol/sp-hw1-sol.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/sp-hw1-sol/sp-hw1-sol.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/sp-hw1-sol/sp-hw1-sol.c.o.d
+build CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-sol/sp-hw1-sol.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/sp-hw1/sp-hw1-sol/sp-hw1-sol.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-sol/sp-hw1-sol.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/sp-hw1-sol
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-sol
 
-build CMakeFiles/system_programming.dir/study/sp-hw1-sol/sp-hw1-sol2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/sp-hw1-sol/sp-hw1-sol2.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/sp-hw1-sol/sp-hw1-sol2.c.o.d
+build CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-sol/sp-hw1-sol2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/sp-hw1/sp-hw1-sol/sp-hw1-sol2.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-sol/sp-hw1-sol2.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/sp-hw1-sol
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-sol
 
-build CMakeFiles/system_programming.dir/study/thread/cond-var.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/cond-var.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/cond-var.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/cond-var.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/cond-var.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/cond-var.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/dot_product.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/dot_product.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/dot_product.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/dot_product.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/dot_product.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/dot_product.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/inc_dec_no_mtx.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/inc_dec_no_mtx.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/inc_dec_no_mtx.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/inc_dec_no_mtx.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/inc_dec_no_mtx.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/inc_dec_no_mtx.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/inc_dec_with_mtx.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/inc_dec_with_mtx.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/inc_dec_with_mtx.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/inc_dec_with_mtx.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/inc_dec_with_mtx.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/inc_dec_with_mtx.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/mutex_counter.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/mutex_counter.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/mutex_counter.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/mutex_counter.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/mutex_counter.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/mutex_counter.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/prod-cons.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/prod-cons.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/prod-cons.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/prod-cons.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/prod-cons.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/prod-cons.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/th_cancel.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/th_cancel.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/th_cancel.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/th_cancel.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/th_cancel.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/th_cancel.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/th_cancel2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/th_cancel2.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/th_cancel2.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/th_cancel2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/th_cancel2.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/th_cancel2.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/th_hello.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/th_hello.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/th_hello.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/th_hello.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/th_hello.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/th_hello.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/th_hello2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/th_hello2.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/th_hello2.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/th_hello2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/th_hello2.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/th_hello2.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/thread-ex1.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/thread-ex1.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/thread-ex1.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/thread-ex1.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/thread-ex1.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/thread-ex1.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/thread-ex2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/thread-ex2.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/thread-ex2.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/thread-ex2.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/thread-ex2.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/thread-ex2.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
 
-build CMakeFiles/system_programming.dir/study/thread/thread-join.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/thread/thread-join.c || cmake_object_order_depends_target_system_programming
-  DEP_FILE = CMakeFiles/system_programming.dir/study/thread/thread-join.c.o.d
+build CMakeFiles/system_programming.dir/study/midterm/thread/thread-join.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/midterm/thread/thread-join.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/midterm/thread/thread-join.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/SysV-IPC
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
   OBJECT_DIR = CMakeFiles/system_programming.dir
-  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/thread
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
-  TARGET_PDB = system_programming.pdb
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/midterm/thread
+
+build CMakeFiles/system_programming.dir/study/final/11_signal/code/sigTest.c.o: C_COMPILER__system_programming_Debug /Volumes/T7/github/system_programming/study/final/11_signal/code/sigTest.c || cmake_object_order_depends_target_system_programming
+  DEP_FILE = CMakeFiles/system_programming.dir/study/final/11_signal/code/sigTest.c.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  INCLUDES = -I/Volumes/T7/github/system_programming/study/final/12_SysV-IPC
+  OBJECT_DIR = CMakeFiles/system_programming.dir
+  OBJECT_FILE_DIR = CMakeFiles/system_programming.dir/study/final/11_signal/code
 
 
 # =============================================================================
@@ -957,14 +764,13 @@ build CMakeFiles/system_programming.dir/study/thread/thread-join.c.o: C_COMPILER
 #############################################
 # Link the executable system_programming
 
-build system_programming: C_EXECUTABLE_LINKER__system_programming_Debug CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-201902763.c.o CMakeFiles/system_programming.dir/sp-hw2/sp-hw2-201902763.c.o CMakeFiles/system_programming.dir/sp-hw3/sp-hw3-201902763-client.c.o CMakeFiles/system_programming.dir/sp-hw3/sp-hw3-201902763-server.c.o CMakeFiles/system_programming.dir/sp-hw4/c.c.o CMakeFiles/system_programming.dir/sp-hw4/s.c.o CMakeFiles/system_programming.dir/study/debug/loop.c.o CMakeFiles/system_programming.dir/study/debug/myProg.c.o CMakeFiles/system_programming.dir/study/debug/segfault.c.o CMakeFiles/system_programming.dir/study/final/mmap/mmcp.c.o CMakeFiles/system_programming.dir/study/final/mmap/nonblockw.c.o CMakeFiles/system_programming.dir/study/final/network/echo_client.c.o CMakeFiles/system_programming.dir/study/final/network/echo_server.c.o CMakeFiles/system_programming.dir/study/final/network/gethostbyaddr_ex.c.o CMakeFiles/system_programming.dir/study/final/network/gethostbyname_ex.c.o CMakeFiles/system_programming.dir/study/final/network/getservbyname_ex.c.o CMakeFiles/system_programming.dir/study/final/network/select_client.c.o CMakeFiles/system_programming.dir/study/final/network/select_server.c.o CMakeFiles/system_programming.dir/study/final/semaphore/mprod-cons.c.o CMakeFiles/system_programming.dir/study/final/semaphore/prod-cons.c.o CMakeFiles/system_programming.dir/study/final/semaphore/semaphore.c.o CMakeFiles/system_programming.dir/study/final/signal/abort.c.o CMakeFiles/system_programming.dir/study/final/signal/alarm-getchar.c.o CMakeFiles/system_programming.dir/study/final/signal/alarm-getchar2.c.o CMakeFiles/system_programming.dir/study/final/signal/alarm.c.o CMakeFiles/system_programming.dir/study/final/signal/itimer.c.o CMakeFiles/system_programming.dir/study/final/signal/pause.c.o CMakeFiles/system_programming.dir/study/final/signal/posix-timer.c.o CMakeFiles/system_programming.dir/study/final/signal/sighandler.c.o CMakeFiles/system_programming.dir/study/final/signal/sigsuspend.c.o CMakeFiles/system_programming.dir/study/final/signal/siguser1.c.o CMakeFiles/system_programming.dir/study/final/signal/sleep-sig.c.o CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem/shm-consumer.c.o CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem/shm-producer.c.o CMakeFiles/system_programming.dir/study/final/SysV-IPC/sysV-sem/shm-seminit.c.o CMakeFiles/system_programming.dir/study/final/SysV-IPC/crecv.c.o CMakeFiles/system_programming.dir/study/final/SysV-IPC/csend.c.o CMakeFiles/system_programming.dir/study/final/SysV-IPC/hello.c.o CMakeFiles/system_programming.dir/study/final/SysV-IPC/memlayer.c.o CMakeFiles/system_programming.dir/study/final/SysV-IPC/shm-con.c.o CMakeFiles/system_programming.dir/study/final/SysV-IPC/shm-pro.c.o CMakeFiles/system_programming.dir/study/final/time/setTime.c.o CMakeFiles/system_programming.dir/study/final/time/strFTime.c.o CMakeFiles/system_programming.dir/study/final/time/timeF.c.o CMakeFiles/system_programming.dir/study/final/time/timeToStr.c.o CMakeFiles/system_programming.dir/study/final/time/toUTC.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/access-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/access.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/chmod-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/chmod.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/chown-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/create-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/dup-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/fcopy2-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/feof-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/ferror-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/filecopy.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/fileio-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/frandom.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/freopen-ex1.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/freopen-ex2.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/fstat-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/hlink-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/io-redir.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/lineio-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/open-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/readlink-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/readlink.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/stdio-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/symlink-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/termtest.c.o CMakeFiles/system_programming.dir/study/process/calc.c.o CMakeFiles/system_programming.dir/study/process/echoall.c.o CMakeFiles/system_programming.dir/study/process/fork.c.o CMakeFiles/system_programming.dir/study/process/fwait.c.o CMakeFiles/system_programming.dir/study/process/nexec.c.o CMakeFiles/system_programming.dir/study/process/pid-ex.c.o CMakeFiles/system_programming.dir/study/process/pipe.c.o CMakeFiles/system_programming.dir/study/process/race.c.o CMakeFiles/system_programming.dir/study/process/sleep5.c.o CMakeFiles/system_programming.dir/study/process/system-ex.c.o CMakeFiles/system_programming.dir/study/process/test.c.o CMakeFiles/system_programming.dir/study/process/time-ex.c.o CMakeFiles/system_programming.dir/study/reclock/rec-proc.c.o CMakeFiles/system_programming.dir/study/reclock/reclock.c.o CMakeFiles/system_programming.dir/study/sp-hw1-sol/sp-hw1-sol.c.o CMakeFiles/system_programming.dir/study/sp-hw1-sol/sp-hw1-sol2.c.o CMakeFiles/system_programming.dir/study/thread/cond-var.c.o CMakeFiles/system_programming.dir/study/thread/dot_product.c.o CMakeFiles/system_programming.dir/study/thread/inc_dec_no_mtx.c.o CMakeFiles/system_programming.dir/study/thread/inc_dec_with_mtx.c.o CMakeFiles/system_programming.dir/study/thread/mutex_counter.c.o CMakeFiles/system_programming.dir/study/thread/prod-cons.c.o CMakeFiles/system_programming.dir/study/thread/th_cancel.c.o CMakeFiles/system_programming.dir/study/thread/th_cancel2.c.o CMakeFiles/system_programming.dir/study/thread/th_hello.c.o CMakeFiles/system_programming.dir/study/thread/th_hello2.c.o CMakeFiles/system_programming.dir/study/thread/thread-ex1.c.o CMakeFiles/system_programming.dir/study/thread/thread-ex2.c.o CMakeFiles/system_programming.dir/study/thread/thread-join.c.o
+build system_programming: C_EXECUTABLE_LINKER__system_programming_Debug CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-201902763.c.o CMakeFiles/system_programming.dir/sp-hw2/sp-hw2-201902763.c.o CMakeFiles/system_programming.dir/sp-hw3/sp-hw3-201902763-client.c.o CMakeFiles/system_programming.dir/sp-hw3/sp-hw3-201902763-server.c.o CMakeFiles/system_programming.dir/sp-hw4/c.c.o CMakeFiles/system_programming.dir/sp-hw4/s.c.o CMakeFiles/system_programming.dir/study/midterm/debug/loop.c.o CMakeFiles/system_programming.dir/study/midterm/debug/myProg.c.o CMakeFiles/system_programming.dir/study/midterm/debug/segfault.c.o CMakeFiles/system_programming.dir/study/final/09_mmap/code/mmcp.c.o CMakeFiles/system_programming.dir/study/final/09_mmap/code/nonblockw.c.o CMakeFiles/system_programming.dir/study/final/13_network/code/echo_client.c.o CMakeFiles/system_programming.dir/study/final/13_network/code/echo_server.c.o CMakeFiles/system_programming.dir/study/final/13_network/code/gethostbyaddr_ex.c.o CMakeFiles/system_programming.dir/study/final/13_network/code/gethostbyname_ex.c.o CMakeFiles/system_programming.dir/study/final/13_network/code/getservbyname_ex.c.o CMakeFiles/system_programming.dir/study/final/13_network/code/select_client.c.o CMakeFiles/system_programming.dir/study/final/13_network/code/select_server.c.o CMakeFiles/system_programming.dir/study/final/10_semaphore/code/mprod-cons.c.o CMakeFiles/system_programming.dir/study/final/10_semaphore/code/prod-cons.c.o CMakeFiles/system_programming.dir/study/final/10_semaphore/code/semaphore.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/abort.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/alarm-getchar.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/alarm-getchar2.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/alarm.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/itimer.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/pause.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/posix-timer.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/sighandler.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/sigsuspend.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/siguser1.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/sleep-sig.c.o CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem/shm-consumer.c.o CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem/shm-producer.c.o CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/sysV-sem/shm-seminit.c.o CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/crecv.c.o CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/csend.c.o CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/hello.c.o CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/memlayer.c.o CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/shm-con.c.o CMakeFiles/system_programming.dir/study/final/12_SysV-IPC/code/shm-pro.c.o CMakeFiles/system_programming.dir/study/final/14_time/code/setTime.c.o CMakeFiles/system_programming.dir/study/final/14_time/code/strFTime.c.o CMakeFiles/system_programming.dir/study/final/14_time/code/timeF.c.o CMakeFiles/system_programming.dir/study/final/14_time/code/timeToStr.c.o CMakeFiles/system_programming.dir/study/final/14_time/code/toUTC.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/access-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/access.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/chmod-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/chmod.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/chown-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/create-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/dup-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/fcopy2-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/feof-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/ferror-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/filecopy.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/fileio-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/frandom.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/freopen-ex1.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/freopen-ex2.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/fstat-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/hlink-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/io-redir.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/lineio-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/open-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/readlink-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/readlink.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/stdio-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/symlink-ex.c.o CMakeFiles/system_programming.dir/study/midterm/fileio/termtest.c.o CMakeFiles/system_programming.dir/study/midterm/process/calc.c.o CMakeFiles/system_programming.dir/study/midterm/process/echoall.c.o CMakeFiles/system_programming.dir/study/midterm/process/fork.c.o CMakeFiles/system_programming.dir/study/midterm/process/fwait.c.o CMakeFiles/system_programming.dir/study/midterm/process/nexec.c.o CMakeFiles/system_programming.dir/study/midterm/process/pid-ex.c.o CMakeFiles/system_programming.dir/study/midterm/process/pipe.c.o CMakeFiles/system_programming.dir/study/midterm/process/race.c.o CMakeFiles/system_programming.dir/study/midterm/process/sleep5.c.o CMakeFiles/system_programming.dir/study/midterm/process/system-ex.c.o CMakeFiles/system_programming.dir/study/midterm/process/test.c.o CMakeFiles/system_programming.dir/study/midterm/process/time-ex.c.o CMakeFiles/system_programming.dir/study/midterm/reclock/rec-proc.c.o CMakeFiles/system_programming.dir/study/midterm/reclock/reclock.c.o CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-sol/sp-hw1-sol.c.o CMakeFiles/system_programming.dir/sp-hw1/sp-hw1-sol/sp-hw1-sol2.c.o CMakeFiles/system_programming.dir/study/midterm/thread/cond-var.c.o CMakeFiles/system_programming.dir/study/midterm/thread/dot_product.c.o CMakeFiles/system_programming.dir/study/midterm/thread/inc_dec_no_mtx.c.o CMakeFiles/system_programming.dir/study/midterm/thread/inc_dec_with_mtx.c.o CMakeFiles/system_programming.dir/study/midterm/thread/mutex_counter.c.o CMakeFiles/system_programming.dir/study/midterm/thread/prod-cons.c.o CMakeFiles/system_programming.dir/study/midterm/thread/th_cancel.c.o CMakeFiles/system_programming.dir/study/midterm/thread/th_cancel2.c.o CMakeFiles/system_programming.dir/study/midterm/thread/th_hello.c.o CMakeFiles/system_programming.dir/study/midterm/thread/th_hello2.c.o CMakeFiles/system_programming.dir/study/midterm/thread/thread-ex1.c.o CMakeFiles/system_programming.dir/study/midterm/thread/thread-ex2.c.o CMakeFiles/system_programming.dir/study/midterm/thread/thread-join.c.o CMakeFiles/system_programming.dir/study/final/11_signal/code/sigTest.c.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/system_programming.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/system_programming.dir/
   TARGET_FILE = system_programming
-  TARGET_PDB = system_programming.pdb
+  TARGET_PDB = system_programming.dbg
 
 
 #############################################
@@ -1009,14 +815,14 @@ build all: phony system_programming
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCCompilerABI.c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystem.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeTestCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Determine-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeCXXCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeCXXCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCCompilerABI.c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystem.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeTestCXXCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Determine-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeCXXCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake: phony
+build ../CMakeLists.txt /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCXXInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/Platform/UnixPaths.cmake CMakeCache.txt CMakeFiles/3.22.3/CMakeCCompiler.cmake CMakeFiles/3.22.3/CMakeCXXCompiler.cmake CMakeFiles/3.22.3/CMakeSystem.cmake: phony
 
 
 #############################################

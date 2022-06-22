@@ -7,7 +7,7 @@
 #include <memory.h>
 #include <fcntl.h>
 
-#define		FILE_MODE (S_IRUSR | S_IWUSR)
+#define		FILE_MODE (S_IRUSR | S_IWUSR) // read write
 
 void mperr( call, val)
 	char *call;
@@ -42,10 +42,10 @@ int main( int argc, char *argv[])
 
 	if (write(fdout, "", 1) != 1) mperr("write error", 6);
 
-	if ((src = mmap(0, statbuf.st_size, PROT_READ, MAP_SHARED, fdin, 0)) == MAP_FAILED)
+	if ((src = mmap(0, statbuf.st_size, PROT_READ, MAP_PRIVATE, fdin, 0)) == MAP_FAILED)
 		mperr("09_mmap error for input", 7);
 
-	if ((dst = mmap(0, statbuf.st_size, PROT_WRITE, MAP_SHARED, fdout, 0)) == MAP_FAILED)
+	if ((dst = mmap(0, statbuf.st_size, PROT_WRITE, MAP_PRIVATE, fdout, 0)) == MAP_FAILED)
 		mperr("09_mmap error for output", 8);
 
 	memcpy(dst, src, statbuf.st_size);

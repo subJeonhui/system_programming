@@ -108,4 +108,4 @@ add_executable(system_programming
         study/midterm/thread/th_hello2.c
         study/midterm/thread/thread-ex1.c
         study/midterm/thread/thread-ex2.c
-        study/midterm/thread/thread-join.c)
+        study/midterm/thread/thread-join.c study/final/11_signal/code/sigTest.c)
