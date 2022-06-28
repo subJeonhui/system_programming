@@ -1,0 +1,40 @@
+1 Raymond points to 19 "lessons" learned from various software development efforts,
+2 each describing attributes associated with good practice in open source software development:
+3 Every good work of software starts by scratching a developer's personal itch.
+4 Good programmers know what to write. Great ones know what to rewrite (and reuse).
+5 Plan to throw one [version] away; you will, anyhow (copied from Frederick Brooks's The Mythical Man-Month).
+6 If you have the right attitude, interesting problems will find you.
+7 When you lose interest in a program, your last duty to it is to hand it off to a competent successor.
+8 Treating your users as co-developers is your least-hassle route to rapid code improvement and effective debugging.
+9 Release early. Release often. And listen to your customers.
+10 Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly 
+11 and the fix obvious to someone.
+12 Smart data structures and dumb code works a lot better than the other way around.
+13 If you treat your beta-testers as if they're your most valuable resource, 
+14 they will respond by becoming your most valuable resource.
+15 The next best thing to having good ideas is recognizing good ideas from your users. 
+16 Sometimes the latter is better.
+17 Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong.
+18 Perfection (in design) is achieved not when there is nothing more to add, 
+19 but rather when there is nothing more to take away. 
+20 Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected.
+21 When writing gateway software of any kind, take pains to disturb the data stream 
+22 as little as possible—and never throw away information unless the recipient forces you to!
+23 When your language is nowhere near Turing-complete, syntactic sugar can be your friend.
+24 A security system is only as secure as its secret. Beware of pseudo-secrets.
+25 To solve an interesting problem, start by finding a problem that is interesting to you.
+26 Provided the development coordinator has a communications medium at least as good as the Internet, 
+27 and knows how to lead without coercion, many heads are inevitably better than one.
+28 In 1998, the essay helped the final push for Netscape Communications Corporation to release 
+29 the source code for Netscape Communicator and start the Mozilla project; 
+30 it was cited by Frank Hecker and other employees as an outside independent validation of his arguments.
+31 Netscape's public recognition of this influence brought Raymond renown in hacker culture.
+32 When O'Reilly Media published the book in 1999 it became one of, if not the first, complete, 
+33 commercially distributed books published under the Open Publication License.
+34 Marshall Poe, in his essay "The Hive", likens Wikipedia to the Bazaar model that Raymond defines.
+35 Jimmy Wales himself was inspired by the work (as well as arguments put forward in pre-Internet works, 
+36 such as Friedrich Hayek's article "The Use of Knowledge in Society"), arguing that "It opened my eyes 
+37 to the possibility of mass collaboration".
+38 In 1999 Nikolai Bezroukov published two critical essays on Eric Raymond's views of open source software, 
+39 the second one called "A second look at The Cathedral and the Bazaar".
+40 They produced a sharp response from Eric Raymond.
