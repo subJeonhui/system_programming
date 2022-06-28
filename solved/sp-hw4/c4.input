@@ -1,0 +1,11 @@
+insert apple-4 red-4
+insert melon-4 green-4
+read apple-4
+insert kmelon-4 yellow-4
+read melon-4
+insert peach-4 pink-4
+update apple-4 darkred-4
+read peach-4
+update pear-4 brown-4
+read plum
+quit

@@ -1,0 +1,11 @@
+insert apple-1 red-1
+insert melon-1 green-1
+read apple-1
+insert kmelon-1 yellow-1
+read melon-1
+insert peach-1 pink-1
+update apple-1 darkred-1
+read peach-1
+update pear-1 brown-1
+read plum
+quit
